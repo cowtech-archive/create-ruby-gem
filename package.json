@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/create-ruby-gem",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "CowTech Template: Ruby Gem",
   "main": "index.js",
   "files": [

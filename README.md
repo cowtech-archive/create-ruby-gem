@@ -1,5 +1,7 @@
 # @cowtech/create-ruby-gem
 
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
+
 Boilerplate for a Ruby Gem.
 
 ## Copyright
